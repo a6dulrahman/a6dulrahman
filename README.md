@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
 <!--
 **a6dulrahman/a6dulrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
